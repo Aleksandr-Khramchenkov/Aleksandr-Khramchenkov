@@ -78,7 +78,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Diploma.png" width="380px" hspace="20px" alt="Диплом»">](https://https://raw.githubusercontent.com/Aleksandr-Khramchenkov/Aleksandr-Khramchenkov/refs/heads/main/Diploma.png)
+[<img src="/Diploma.png" width="480px" hspace="30px" alt="Диплом»">](https://https://raw.githubusercontent.com/Aleksandr-Khramchenkov/Aleksandr-Khramchenkov/refs/heads/main/Diploma.png)
 
 
 <br>
